@@ -13,4 +13,16 @@
 		<put-attribute name="current" value="index" />
 	</definition>
 	
+	<definition name="barangForm" extends="common">
+		<put-attribute name="title" value="Barang Form" />
+		<put-attribute name="body" value="/WEB-INF/jsp/barang-form.jsp" />
+		<put-attribute name="current" value="barangForm" />
+	</definition>
+	
+	<definition name="barangList" extends="common">
+		<put-attribute name="title" value="Barang List" />
+		<put-attribute name="body" value="/WEB-INF/jsp/barang-list.jsp" />
+		<put-attribute name="current" value="barangList" />
+	</definition>
+	
 </tiles-definitions>

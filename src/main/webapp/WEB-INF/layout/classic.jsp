@@ -86,6 +86,8 @@
 					<ul class="nav navbar-nav">
 						<li class="${current == 'index' ? 'active' : '' }"><a
 							href="<spring:url value="/" />">Home</a></li>
+						<li class="${current == 'barangForm' ? 'active' : '' }"><a
+							href="<spring:url value="/barang/form.html" />">Barang</a></li>	
 					</ul>
 				</div>
 				<!--/.nav-collapse -->
