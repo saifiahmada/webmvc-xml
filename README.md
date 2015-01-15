@@ -13,7 +13,7 @@ git clone https://github.com/saifiahmada/webmvc-xml
 
 cd webmvc-xml
 
-edit file jdbc.properties untuk koneksi mysql
+edit file jdbc.properties pada webmvc-xml/src/main/webapp/WEB-INF/jdbc.properties untuk koneksi mysql
 
 #jalankan :
 mvn jetty:run
