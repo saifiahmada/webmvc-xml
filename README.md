@@ -1,6 +1,13 @@
 # webmvc-xml
 spring web mvc configurasi xml
 
+<h2>Spring MVC</h2>
+<h2>Spring Data Jpa</h2>
+<h2>Hibernate Entity Manager</h2>
+<h2>MySql</h2>
+<h2>Tiles 3</h2>
+<h2>Bootstrap 3</h2>
+
 clone :
 git clone https://github.com/saifiahmada/webmvc-xml
 
